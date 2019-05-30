@@ -1,7 +1,7 @@
 # Text-Analytics
 NLP
 
-Student Name: Guohao Ma
+Student Name:  Guohao Ma
 
 Student Number: 20676560
 
