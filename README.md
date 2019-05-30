@@ -1,7 +1,9 @@
 # Text-Analytics
 NLP
 
-Hello, world!
+Student Name: Guohao Ma
+Student Number: 20676560
+
 
                                                          MSCI 641 
 All assignments will be done using the corpus of Amazon reviews available for download at:
